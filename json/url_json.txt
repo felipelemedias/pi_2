@@ -1,0 +1,5 @@
+https://servicodados.ibge.gov.br/api/v1/paises/{paises}/indicadores/{indicadores}
+https://servicodados.ibge.gov.br/api/v1/paises/BR|RU|IN|CN|ZA/indicadores/77850
+
+
+paises BRICS(paises) com TAXA DE MORTALIDADE(indicadores)
